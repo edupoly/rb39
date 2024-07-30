@@ -1,0 +1,12 @@
+.myfavcolor{
+    color:rgb(231,55,85);
+    background-color: lightgreen;
+    border:5px solid green;
+    text-align: right;
+    font-family: "Playwrite CU", cursive;
+    padding:10px;
+    margin:40px;
+}
+#sw{
+    color:lightblue;/*decleration*/
+}/* Rule */
